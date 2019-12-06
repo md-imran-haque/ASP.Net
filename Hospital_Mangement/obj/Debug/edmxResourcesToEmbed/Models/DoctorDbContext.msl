@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Hospital_ManagementModelStoreContainer" CdmEntityContainer="DoctorDbContext">
+    <EntitySetMapping Name="tblDoctors">
+      <EntityTypeMapping TypeName="Hospital_ManagementModel.tblDoctor">
+        <MappingFragment StoreEntitySet="tblDoctors">
+          <ScalarProperty Name="DoctorId" ColumnName="DoctorId" />
+          <ScalarProperty Name="DoctorName" ColumnName="DoctorName" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="DoctorPicture" ColumnName="DoctorPicture" />
+          <ScalarProperty Name="DoctorCharge" ColumnName="DoctorCharge" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,459 @@
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.dll.config
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.pdb
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.exe
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.exe.config
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.rsp
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.exe
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.exe.config
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.rsp
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.AppContext.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Collections.Immutable.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Console.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Compression.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.FileSystem.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Pipes.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Reflection.Metadata.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.AccessControl.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Claims.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.ValueTuple.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XPath.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.exe
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.exe.config
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.rsp
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\VBCSCompiler.exe
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\VBCSCompiler.exe.config
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Antlr3.Runtime.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\AspNet.ScriptManager.jQuery.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.SqlServer.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Google.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Web.Infrastructure.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Newtonsoft.Json.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Owin.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Optimization.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Providers.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\WebGrease.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Optimization.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Newtonsoft.Json.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Antlr3.Runtime.pdb
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.SqlServer.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Providers.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Google.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csprojAssemblyReference.cache
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csproj.CoreCompileInputs.cache
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csproj.CopyComplete
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.dll
+E:\Imran\Hospital\Asp_Project_On_Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.pdb
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.dll.config
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.pdb
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.exe
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.exe.config
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.rsp
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.exe
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.exe.config
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.rsp
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.AppContext.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Collections.Immutable.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Console.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Compression.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.FileSystem.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Pipes.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Reflection.Metadata.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.AccessControl.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Claims.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.ValueTuple.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XPath.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.exe
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.exe.config
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.rsp
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\VBCSCompiler.exe
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\VBCSCompiler.exe.config
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Antlr3.Runtime.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\AspNet.ScriptManager.jQuery.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.SqlServer.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Google.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Web.Infrastructure.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Newtonsoft.Json.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Owin.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Optimization.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Providers.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\WebGrease.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Optimization.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Newtonsoft.Json.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Antlr3.Runtime.pdb
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.SqlServer.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Providers.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Google.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csprojAssemblyReference.cache
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csproj.CoreCompileInputs.cache
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csproj.CopyComplete
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.pdb
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportSource.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.Shared.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.Web.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Imran\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\stdole.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.dll.config
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.pdb
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.exe
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.exe.config
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.rsp
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.exe
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.exe.config
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.rsp
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.AppContext.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Console.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Claims.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.exe
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.exe.config
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.rsp
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Antlr3.Runtime.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.Shared.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.Web.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.SqlServer.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Newtonsoft.Json.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Owin.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Optimization.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Providers.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\WebGrease.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\stdole.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Optimization.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Newtonsoft.Json.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Antlr3.Runtime.pdb
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.SqlServer.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Providers.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csproj.CopyComplete
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.dll
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.pdb
+C:\Users\Inspiron\Desktop\Project_Work_07\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csprojAssemblyReference.cache
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.dll.config
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Hospital_Mangement.pdb
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.exe
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.exe.config
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csc.rsp
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.exe
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.exe.config
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\csi.rsp
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.AppContext.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Collections.Immutable.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Console.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Compression.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.FileSystem.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.IO.Pipes.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Reflection.Metadata.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.AccessControl.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Claims.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.ValueTuple.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XPath.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.exe
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.exe.config
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\vbc.rsp
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\VBCSCompiler.exe
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\roslyn\VBCSCompiler.exe.config
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Antlr3.Runtime.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\AspNet.ScriptManager.jQuery.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportSource.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.Shared.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.Web.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.SqlServer.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Google.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Web.Infrastructure.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Newtonsoft.Json.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Owin.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Optimization.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Providers.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\WebGrease.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\stdole.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Optimization.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Newtonsoft.Json.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Antlr3.Runtime.pdb
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\EntityFramework.SqlServer.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\System.Web.Providers.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Google.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csprojAssemblyReference.cache
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csproj.CoreCompileInputs.cache
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.csproj.CopyComplete
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.dll
+E:\Imran\Project_Work_07\1247624_Md_Imran_Haque\ASP Project on Hospital_Management\ESAD_CS_R40_ID_1247624\Hospital_Mangement\obj\Debug\Hospital_Mangement.pdb
